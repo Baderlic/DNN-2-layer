@@ -10,7 +10,7 @@ Google Drive: https://drive.google.com/drive/folders/1t1q_Jo7dy-fEyUEnMV6Sac5mDX
 + training.py: 训练模型，存储模型，loss、accuracy曲线
 + test.py: 测试模型
 + visual.py: 可视化参数
-+ model.pickle 训练得到的最佳模型
++ model.pickle 训练得到的最佳模型(Google Drive)
 
 ## 使用顺序
 1. training.py
